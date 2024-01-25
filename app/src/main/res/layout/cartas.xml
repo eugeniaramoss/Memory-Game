@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_1_1"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_1_2"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_1_3"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_1_4"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_2_1"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_2_2"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_2_3"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_2_4"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_3_1"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_3_2"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_3_3"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+
+        <ImageView
+            android:id="@+id/iv_3_4"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:onClick="seleccionar"
+            app:srcCompat="@drawable/oculta" />
+    </LinearLayout>
+
+</LinearLayout>
